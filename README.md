@@ -1,112 +1,137 @@
-<!-- ===================== CABECERA ===================== -->
-<div align="center">
+<!-- ===================== BARRA DE VENTANA ===================== -->
+<p>
+  <img src="https://img.shields.io/badge/%20-f7768e?style=flat-square" height="14" alt=""/>
+  <img src="https://img.shields.io/badge/%20-e0af68?style=flat-square" height="14" alt=""/>
+  <img src="https://img.shields.io/badge/%20-9ece6a?style=flat-square" height="14" alt=""/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/carlosvf19-README.md-24283b?style=flat-square&labelColor=1a1b27&color=24283b" alt="README.md"/>
+  <img src="https://img.shields.io/badge/perfil.java-1a1b27?style=flat-square" alt="perfil.java"/>
+  <img src="https://img.shields.io/badge/proyectos.json-1a1b27?style=flat-square" alt="proyectos.json"/>
+</p>
+
+<!-- ===================== TERMINAL ===================== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=400&color=7AA2F7&multiline=true&repeat=false&width=820&height=210&lines=carlos%40github%3A~%24+whoami;Carlos+Valad%C3%A9s+Fern%C3%A1ndez+%E2%80%94+Don+Benito%2C+Badajoz;carlos%40github%3A~%24+cat+rol.txt;Estudiante+de+DAM+%C2%B7+Tiendas+Shopify+%C2%B7+Canales+de+YouTube;carlos%40github%3A~%24+cat+objetivo.txt;Soporte+t%C3%A9cnico+%7C+Sistemas+%7C+Desarrollo+de+software;carlos%40github%3A~%24+_" alt="Terminal"/>
+
+<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/--email-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b27" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/--linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@TU_CANAL"><img src="https://img.shields.io/badge/--youtube-1a1b27?style=for-the-badge&logo=youtube&logoColor=f7768e&labelColor=1a1b27" alt="YouTube"/></a>
+<a href="https://TU_TIENDA"><img src="https://img.shields.io/badge/--shopify-1a1b27?style=for-the-badge&logo=shopify&logoColor=9ece6a&labelColor=1a1b27" alt="Shopify"/></a>
 
 <br>
 
-<img src="https://images.weserv.nl/?url=github.com/carlosvf19.png&w=150&h=150&fit=cover&mask=circle&mbg=transparent" width="150" alt="Carlos"/>
+<!-- ===================== PERFIL.JAVA ===================== -->
+<img src="https://img.shields.io/badge/%E2%96%B8%20perfil.java-24283b?style=flat-square&logo=openjdk&logoColor=f7768e" alt="perfil.java"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=3500&pause=2500&color=C0CAF5&center=true&vCenter=true&width=700&height=60&lines=Carlos+Valad%C3%A9s+Fern%C3%A1ndez" alt="Carlos Valadés Fernández"/>
+```java
+public class Carlos extends Desarrollador {
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=BB9AF7&center=true&vCenter=true&width=640&height=32&lines=Desarrollo+de+Aplicaciones+Multiplataforma;Tiendas+Shopify+propias;Creador+de+contenido+en+YouTube;Buscando+mi+primer+puesto+en+tecnolog%C3%ADa" alt="Roles"/>
+    String formacion = "Desarrollo de Aplicaciones Multiplataforma · IES Donoso Cortés";
 
-<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/@TU_CANAL"><img src="https://img.shields.io/badge/YouTube-24283b?style=for-the-badge&logo=youtube&logoColor=f7768e" alt="YouTube"/></a>
-<img src="https://img.shields.io/badge/Don_Benito-24283b?style=for-the-badge&logo=googlemaps&logoColor=9ece6a" alt="Ubicación"/>
+    List<String> hago = List.of(
+        "Aplicaciones de escritorio con Java + JavaFX",
+        "Bases de datos y modelos entidad-relación",
+        "Montaje y configuración de equipos y redes",
+        "Tiendas Shopify propias: catálogo, tema y páginas legales",
+        "Vídeos para mis canales de YouTube"
+    );
 
-<br><br>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/openjdk/7aa2f7" width="38"/>
-<h4>Desarrollo</h4>
-<sub>Último año de DAM en el IES Donoso Cortés. Aplicaciones de escritorio en Java + JavaFX y bases de datos.</sub>
-<br><br>
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/shopify/9ece6a" width="38"/>
-<h4>E-commerce</h4>
-<sub>Creo y gestiono mis propias tiendas Shopify: catálogo, diseño del tema y páginas legales.</sub>
-<br><br>
-</td>
-<td width="33%" align="center" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/youtube/f7768e" width="38"/>
-<h4>Contenido</h4>
-<sub>Produzco y edito vídeos para mis canales de YouTube, sobre todo en formato corto.</sub>
-<br><br>
-</td>
-</tr>
-</table>
-
-<sub><b>Busco incorporarme a un equipo de soporte técnico, sistemas o desarrollo.</b></sub>
-
-</div>
-
-<br>
+    @Override
+    public String busco() {
+        return "Un equipo de soporte técnico, sistemas o desarrollo";
+    }
+}
+```
 
 <!-- ===================== STACK ===================== -->
-<h3>
-  <img src="https://img.shields.io/badge/01-7aa2f7?style=flat-square" alt="01"/> Stack
-</h3>
-
-**Lenguajes** &nbsp;
-![Java](https://img.shields.io/badge/Java-24283b?style=for-the-badge&logo=openjdk&logoColor=f7768e)
-![SQL](https://img.shields.io/badge/SQL-24283b?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
-![HTML](https://img.shields.io/badge/HTML-24283b?style=for-the-badge&logo=html5&logoColor=ff9e64)
-![CSS](https://img.shields.io/badge/CSS-24283b?style=for-the-badge&logo=css&logoColor=7aa2f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-24283b?style=for-the-badge&logo=javascript&logoColor=e0af68)
-
-**Sistemas** &nbsp;
-![Linux](https://img.shields.io/badge/Linux-24283b?style=for-the-badge&logo=linux&logoColor=e0af68)
-![Windows](https://img.shields.io/badge/Windows-24283b?style=for-the-badge&logo=windows&logoColor=7aa2f7)
-![Bash](https://img.shields.io/badge/Bash-24283b?style=for-the-badge&logo=gnubash&logoColor=9ece6a)
-![PowerShell](https://img.shields.io/badge/PowerShell-24283b?style=for-the-badge&logo=powershell&logoColor=7dcfff)
-
-**Herramientas** &nbsp;
-![Git](https://img.shields.io/badge/Git-24283b?style=for-the-badge&logo=git&logoColor=f7768e)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-24283b?style=for-the-badge&logo=intellijidea&logoColor=bb9af7)
-![VS Code](https://img.shields.io/badge/VS_Code-24283b?style=for-the-badge&logo=vscodium&logoColor=7aa2f7)
-![Scene Builder](https://img.shields.io/badge/Scene_Builder-24283b?style=for-the-badge&logoColor=bb9af7)
-
-**Negocio y contenido** &nbsp;
-![Shopify](https://img.shields.io/badge/Shopify-24283b?style=for-the-badge&logo=shopify&logoColor=9ece6a)
-![YouTube](https://img.shields.io/badge/YouTube-24283b?style=for-the-badge&logo=youtube&logoColor=f7768e)
-
-<!-- ===================== PROYECTOS ===================== -->
-<h3>
-  <img src="https://img.shields.io/badge/02-bb9af7?style=flat-square" alt="02"/> Proyectos
-</h3>
-
-| | Proyecto | Qué hace | Stack |
-|:--:|:--|:--|:--|
-| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="32"/> | [**Biblioteca JavaFX**](https://github.com/carlosvf19/NOMBRE_REPO) | Gestión de biblioteca: pantalla principal y administración de autores y libros | `Java` `JavaFX` `FXML` |
-| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="32"/> | [**Catálogo JavaFX**](https://github.com/carlosvf19/NOMBRE_REPO) | App con los componentes de JavaFX y ejemplos de uso. En equipo | `Java` `JavaFX` |
-| <img src="https://cdn.simpleicons.org/shopify/9ece6a" width="32"/> | [**Tiendas Shopify**](https://TU_TIENDA) | Tiendas online propias: montaje, productos, personalización del tema y páginas legales | `Shopify` `E-commerce` `Diseño web` |
-| <img src="https://cdn.simpleicons.org/youtube/f7768e" width="32"/> | [**Canales de YouTube**](https://www.youtube.com/@TU_CANAL) | Creación y edición de contenido en formato corto | `Edición de vídeo` `Contenido` |
-| <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="32"/> | [**Paseo de perros**](https://github.com/carlosvf19/NOMBRE_REPO) | Modelo de datos para una app con arnés Bluetooth: rutas, alertas y quedadas | `SQL` `Modelo E-R` |
-
-<!-- ===================== ESTADÍSTICAS ===================== -->
-<h3>
-  <img src="https://img.shields.io/badge/03-f7768e?style=flat-square" alt="03"/> Actividad
-</h3>
+<img src="https://img.shields.io/badge/%E2%96%B8%20stack.yml-24283b?style=flat-square&logo=yaml&logoColor=bb9af7" alt="stack.yml"/>
 
 <table>
 <tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=carlosvf19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&locale=es&rank_icon=github" alt="Stats"/></td>
-<td width="50%"><img width="100%" src="https://streak-stats.demolab.com?user=carlosvf19&theme=tokyonight&hide_border=true&border_radius=10&locale=es" alt="Racha"/></td>
+<td align="right"><code>lenguajes</code></td>
+<td><img src="https://skillicons.dev/icons?i=java,mysql,html,css,js&theme=dark" height="40" alt="Lenguajes"/></td>
 </tr>
 <tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvf19&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&locale=es" alt="Lenguajes"/></td>
-<td width="50%"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=carlosvf19&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones" alt="Actividad"/></td>
+<td align="right"><code>sistemas</code></td>
+<td><img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell&theme=dark" height="40" alt="Sistemas"/></td>
+</tr>
+<tr>
+<td align="right"><code>herramientas</code></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" height="40" alt="Herramientas"/></td>
+</tr>
+<tr>
+<td align="right"><code>negocio</code></td>
+<td>
+  <img src="https://img.shields.io/badge/Shopify-24283b?style=for-the-badge&logo=shopify&logoColor=9ece6a" height="40" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/YouTube-24283b?style=for-the-badge&logo=youtube&logoColor=f7768e" height="40" alt="YouTube"/>
+</td>
 </tr>
 </table>
+
+<!-- ===================== PROYECTOS ===================== -->
+<img src="https://img.shields.io/badge/%E2%96%B8%20proyectos.json-24283b?style=flat-square&logo=json&logoColor=e0af68" alt="proyectos.json"/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<img src="https://cdn.simpleicons.org/openjdk/7aa2f7" width="28"/><br>
+<b><a href="https://github.com/carlosvf19/NOMBRE_REPO">Biblioteca JavaFX</a></b><br>
+<sub>Gestión de biblioteca con pantalla principal y administración de autores y libros.</sub><br><br>
+<code>Java</code> <code>JavaFX</code> <code>FXML</code>
+</td>
+<td width="33%" valign="top">
+<img src="https://cdn.simpleicons.org/openjdk/bb9af7" width="28"/><br>
+<b><a href="https://github.com/carlosvf19/NOMBRE_REPO">Catálogo JavaFX</a></b><br>
+<sub>App con los componentes de JavaFX y ejemplos de uso. Proyecto en equipo.</sub><br><br>
+<code>Java</code> <code>JavaFX</code>
+</td>
+<td width="33%" valign="top">
+<img src="https://cdn.simpleicons.org/mysql/7dcfff" width="28"/><br>
+<b><a href="https://github.com/carlosvf19/NOMBRE_REPO">Paseo de perros</a></b><br>
+<sub>Modelo de datos para una app con arnés Bluetooth: rutas, alertas de escape y quedadas.</sub><br><br>
+<code>SQL</code> <code>Modelo E-R</code>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://cdn.simpleicons.org/shopify/9ece6a" width="28"/><br>
+<b><a href="https://TU_TIENDA">Tiendas Shopify</a></b><br>
+<sub>Tiendas online propias: montaje, productos, personalización del tema y páginas legales.</sub><br><br>
+<code>Shopify</code> <code>E-commerce</code>
+</td>
+<td width="33%" valign="top">
+<img src="https://cdn.simpleicons.org/youtube/f7768e" width="28"/><br>
+<b><a href="https://www.youtube.com/@TU_CANAL">Canales de YouTube</a></b><br>
+<sub>Creación y edición de contenido en formato corto.</sub><br><br>
+<code>Vídeo</code> <code>Contenido</code>
+</td>
+<td width="33%" valign="top">
+<img src="https://cdn.simpleicons.org/github/565f89" width="28"/><br>
+<b>Próximamente</b><br>
+<sub>Nuevo proyecto en desarrollo.</sub><br><br>
+<code>WIP</code>
+</td>
+</tr>
+</table>
+
+<!-- ===================== ACTIVIDAD ===================== -->
+<img src="https://img.shields.io/badge/%E2%96%B8%20actividad.log-24283b?style=flat-square&logo=github&logoColor=7aa2f7" alt="actividad.log"/>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=carlosvf19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&locale=es&rank_icon=github" alt="Stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=carlosvf19&theme=tokyonight&hide_border=true&border_radius=8&locale=es" alt="Racha"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvf19&layout=donut&theme=tokyonight&hide_border=true&border_radius=8&locale=es" alt="Lenguajes"/>
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=carlosvf19&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Contribuciones" alt="Actividad"/>
 
 <!-- Serpiente: la genera .github/workflows/snake.yml -->
 <img width="100%" src="https://raw.githubusercontent.com/carlosvf19/carlosvf19/output/snake-neon.svg" alt="Serpiente"/>
 
-<!-- ===================== PIE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:bb9af7,20:7aa2f7,45:414868,100:1a1b27&height=110&section=footer&reversal=true" alt="Footer"/>
+<!-- ===================== BARRA DE ESTADO ===================== -->
+<p>
+  <img src="https://img.shields.io/badge/main-7aa2f7?style=flat-square&logo=git&logoColor=1a1b27" alt="main"/>
+  <img src="https://img.shields.io/badge/UTF--8-1a1b27?style=flat-square" alt="UTF-8"/>
+  <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=f7768e" alt="Java"/>
+  <img src="https://img.shields.io/badge/Don_Benito-1a1b27?style=flat-square&logo=googlemaps&logoColor=9ece6a" alt="Don Benito"/>
+  <img src="https://komarev.com/ghpvc/?username=carlosvf19&style=flat-square&color=bb9af7&label=visitas" alt="Visitas"/>
+</p>
