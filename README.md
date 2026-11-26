@@ -6,15 +6,17 @@
 <tr>
 <td width="58%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=7AA2F7&vCenter=true&width=460&height=30&lines=Hola%2C+soy+Carlos;T%C3%A9cnico+en+Sistemas+y+Redes;Estudiante+de+DAM;Busco+mi+primer+puesto" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=7AA2F7&vCenter=true&width=460&height=30&lines=Hola%2C+soy+Carlos;Estudiante+de+DAM;Tiendas+Shopify+%C2%B7+Canales+de+YouTube;Busco+mi+primer+puesto" alt="Typing"/>
 
-Técnico en **Sistemas Microinformáticos y Redes** y estudiante de último año de
-**Desarrollo de Aplicaciones Multiplataforma** en el IES Donoso Cortés (Don Benito).
+Estudiante de último año de **Desarrollo de Aplicaciones Multiplataforma**
+en el IES Donoso Cortés (Don Benito). Fuera de clase llevo mis propias
+**tiendas online en Shopify** y **canales de YouTube**.
 
 - Monto, configuro y reparo equipos y redes
 - Desarrollo aplicaciones de escritorio en Java con JavaFX
 - Diseño bases de datos y modelos entidad-relación
-- Gestiono tiendas online y un canal de YouTube
+- Creo y gestiono tiendas Shopify: catálogo, diseño del tema y páginas legales
+- Produzco y publico contenido en mis canales de YouTube
 
 <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-f7768e?style=flat-square&logo=gmail&logoColor=1a1b27" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=1a1b27" alt="LinkedIn"/></a>
@@ -26,9 +28,10 @@ Técnico en **Sistemas Microinformáticos y Redes** y estudiante de último año
 ```yaml
 nombre:     Carlos Valadés Fernández
 ubicacion:  Don Benito, Badajoz
-formacion:
-  - SMR (2023-2025)
-  - DAM (en curso)
+formacion:  DAM (en curso)
+proyectos:
+  - Tiendas Shopify
+  - Canales de YouTube
 lenguajes:  [Java, SQL, HTML, CSS, JS]
 interfaces: JavaFX + FXML
 sistemas:   [Windows, Linux]
@@ -66,6 +69,10 @@ busco:
 ![VS Code](https://img.shields.io/badge/VS_Code-24283b?style=for-the-badge&logo=vscodium&logoColor=7aa2f7)
 ![Scene Builder](https://img.shields.io/badge/Scene_Builder-24283b?style=for-the-badge&logoColor=bb9af7)
 
+**Negocio y contenido** &nbsp;
+![Shopify](https://img.shields.io/badge/Shopify-24283b?style=for-the-badge&logo=shopify&logoColor=9ece6a)
+![YouTube](https://img.shields.io/badge/YouTube-24283b?style=for-the-badge&logo=youtube&logoColor=f7768e)
+
 <!-- ===================== PROYECTOS ===================== -->
 <h3>
   <img src="https://img.shields.io/badge/02-bb9af7?style=flat-square" alt="02"/> Proyectos
@@ -75,6 +82,8 @@ busco:
 |:--:|:--|:--|:--|
 | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="32"/> | [**Biblioteca JavaFX**](https://github.com/carlosvf19/NOMBRE_REPO) | Gestión de biblioteca: pantalla principal y administración de autores y libros | `Java` `JavaFX` `FXML` |
 | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="32"/> | [**Catálogo JavaFX**](https://github.com/carlosvf19/NOMBRE_REPO) | App con los componentes de JavaFX y ejemplos de uso. En equipo | `Java` `JavaFX` |
+| <img src="https://cdn.simpleicons.org/shopify/9ece6a" width="32"/> | [**Tiendas Shopify**](https://TU_TIENDA) | Tiendas online propias: montaje, productos, personalización del tema y páginas legales | `Shopify` `E-commerce` `Diseño web` |
+| <img src="https://cdn.simpleicons.org/youtube/f7768e" width="32"/> | [**Canales de YouTube**](https://www.youtube.com/@TU_CANAL) | Creación y edición de contenido en formato corto | `Edición de vídeo` `Contenido` |
 | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="32"/> | [**Paseo de perros**](https://github.com/carlosvf19/NOMBRE_REPO) | Modelo de datos para una app con arnés Bluetooth: rutas, alertas y quedadas | `SQL` `Modelo E-R` |
 
 <!-- ===================== ESTADÍSTICAS ===================== -->
