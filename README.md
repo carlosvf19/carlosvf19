@@ -130,3 +130,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssso Extra:     tiendas Shopify · canal de YouT
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00e5ff,25:4b0082,60:1a0033,100:000000&height=140&section=footer" alt="Footer"/>
+
