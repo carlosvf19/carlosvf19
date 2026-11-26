@@ -1,49 +1,52 @@
 <!-- ===================== CABECERA ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1b27,55:414868,80:7aa2f7,100:bb9af7&height=200&section=header&text=Carlos%20Valad%C3%A9s&fontSize=52&fontColor=c0caf5&fontAlign=30&fontAlignY=38&rotate=-4&desc=Soporte%20%C2%B7%20Sistemas%20%C2%B7%20Desarrollo&descSize=18&descAlign=30&descAlignY=58&descColor=bb9af7" alt="Banner"/>
+<div align="center">
 
-<!-- ===================== PRESENTACIÓN ===================== -->
+<br>
+
+<img src="https://images.weserv.nl/?url=github.com/carlosvf19.png&w=150&h=150&fit=cover&mask=circle&mbg=transparent" width="150" alt="Carlos"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=3500&pause=2500&color=C0CAF5&center=true&vCenter=true&width=700&height=60&lines=Carlos+Valad%C3%A9s+Fern%C3%A1ndez" alt="Carlos Valadés Fernández"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=BB9AF7&center=true&vCenter=true&width=640&height=32&lines=Desarrollo+de+Aplicaciones+Multiplataforma;Tiendas+Shopify+propias;Creador+de+contenido+en+YouTube;Buscando+mi+primer+puesto+en+tecnolog%C3%ADa" alt="Roles"/>
+
+<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/@TU_CANAL"><img src="https://img.shields.io/badge/YouTube-24283b?style=for-the-badge&logo=youtube&logoColor=f7768e" alt="YouTube"/></a>
+<img src="https://img.shields.io/badge/Don_Benito-24283b?style=for-the-badge&logo=googlemaps&logoColor=9ece6a" alt="Ubicación"/>
+
+<br><br>
+
 <table>
 <tr>
-<td width="58%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=7AA2F7&vCenter=true&width=460&height=30&lines=Hola%2C+soy+Carlos;Estudiante+de+DAM;Tiendas+Shopify+%C2%B7+Canales+de+YouTube;Busco+mi+primer+puesto" alt="Typing"/>
-
-Estudiante de último año de **Desarrollo de Aplicaciones Multiplataforma**
-en el IES Donoso Cortés (Don Benito). Fuera de clase llevo mis propias
-**tiendas online en Shopify** y **canales de YouTube**.
-
-- Monto, configuro y reparo equipos y redes
-- Desarrollo aplicaciones de escritorio en Java con JavaFX
-- Diseño bases de datos y modelos entidad-relación
-- Creo y gestiono tiendas Shopify: catálogo, diseño del tema y páginas legales
-- Produzco y publico contenido en mis canales de YouTube
-
-<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-f7768e?style=flat-square&logo=gmail&logoColor=1a1b27" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=1a1b27" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/Disponible-9ece6a?style=flat-square&logoColor=1a1b27" alt="Disponible"/>
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/openjdk/7aa2f7" width="38"/>
+<h4>Desarrollo</h4>
+<sub>Último año de DAM en el IES Donoso Cortés. Aplicaciones de escritorio en Java + JavaFX y bases de datos.</sub>
+<br><br>
 </td>
-<td width="42%" valign="top">
-
-```yaml
-nombre:     Carlos Valadés Fernández
-ubicacion:  Don Benito, Badajoz
-formacion:  DAM (en curso)
-proyectos:
-  - Tiendas Shopify
-  - Canales de YouTube
-lenguajes:  [Java, SQL, HTML, CSS, JS]
-interfaces: JavaFX + FXML
-sistemas:   [Windows, Linux]
-busco:
-  - Soporte técnico
-  - Sistemas
-  - Desarrollo
-```
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/shopify/9ece6a" width="38"/>
+<h4>E-commerce</h4>
+<sub>Creo y gestiono mis propias tiendas Shopify: catálogo, diseño del tema y páginas legales.</sub>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/youtube/f7768e" width="38"/>
+<h4>Contenido</h4>
+<sub>Produzco y edito vídeos para mis canales de YouTube, sobre todo en formato corto.</sub>
+<br><br>
 </td>
 </tr>
 </table>
+
+<sub><b>Busco incorporarme a un equipo de soporte técnico, sistemas o desarrollo.</b></sub>
+
+</div>
+
+<br>
 
 <!-- ===================== STACK ===================== -->
 <h3>
