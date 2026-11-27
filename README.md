@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff1a1a" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@TU_CANAL"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=ff1a1a" alt="YouTube"/></a>
-  <a href="https://TU_TIENDA"><img src="https://img.shields.io/badge/SHOPIFY-000000?style=for-the-badge&logo=shopify&logoColor=ff1a1a" alt="Shopify"/></a>
+  <a href="mailto:carlosvaladesfernandez@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff1a1a" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/carlosvaladesfernandez"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" alt="LinkedIn"/></a>
+  <a href="https://astronomiavisioncertificada.com"><img src="https://img.shields.io/badge/SHOPIFY-000000?style=for-the-badge&logo=shopify&logoColor=ff1a1a" alt="Shopify"/></a>
   <img src="https://komarev.com/ghpvc/?username=carlosvf19&style=for-the-badge&color=8b0000&label=JUGADORES" alt="Visitas"/>
 </p>
 
@@ -92,8 +91,8 @@
 <td width="33%" align="center" valign="top">
 <br>
 <img src="https://cdn.simpleicons.org/openjdk/ff1a1a" width="40"/>
-<h4><a href="https://github.com/carlosvf19/NOMBRE_REPO">Biblioteca JavaFX</a></h4>
-<sub>Gestión de biblioteca con administración de autores y libros.</sub>
+<h4><a href="https://github.com/carlosvf19/CalculadoraJavafx">Calculadora JavaFX</a></h4>
+<sub>Calculadora de escritorio con interfaz en FXML: operaciones básicas, borrado y resultado.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/LOGRO-DESBLOQUEADO-ff1a1a?style=flat-square&labelColor=000000"/>
 <br><br>
@@ -101,7 +100,7 @@
 <td width="33%" align="center" valign="top">
 <br>
 <img src="https://cdn.simpleicons.org/openjdk/ff1a1a" width="40"/>
-<h4><a href="https://github.com/carlosvf19/NOMBRE_REPO">Catálogo JavaFX</a></h4>
+<h4>Catálogo JavaFX</h4>
 <sub>App con los componentes de JavaFX y ejemplos. Misión en equipo.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/LOGRO-COOPERATIVO-ff1a1a?style=flat-square&labelColor=000000"/>
@@ -109,9 +108,9 @@
 </td>
 <td width="33%" align="center" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/mysql/ff1a1a" width="40"/>
-<h4><a href="https://github.com/carlosvf19/NOMBRE_REPO">Paseo de perros</a></h4>
-<sub>Modelo de datos para una app con arnés Bluetooth: rutas, alertas y quedadas.</sub>
+<img src="https://cdn.simpleicons.org/openjdk/ff1a1a" width="40"/>
+<h4>Biblioteca JavaFX</h4>
+<sub>Gestión de biblioteca con administración de autores y libros.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/LOGRO-DESBLOQUEADO-ff1a1a?style=flat-square&labelColor=000000"/>
 <br><br>
@@ -121,7 +120,7 @@
 <td width="33%" align="center" valign="top">
 <br>
 <img src="https://cdn.simpleicons.org/shopify/ff1a1a" width="40"/>
-<h4><a href="https://TU_TIENDA">Tiendas Shopify</a></h4>
+<h4><a href="https://astronomiavisioncertificada.com">Tiendas Shopify</a></h4>
 <sub>Tiendas online propias: productos, tema y páginas legales.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/MISI%C3%93N-SECUNDARIA-ff1a1a?style=flat-square&labelColor=000000"/>
@@ -130,7 +129,7 @@
 <td width="33%" align="center" valign="top">
 <br>
 <img src="https://cdn.simpleicons.org/youtube/ff1a1a" width="40"/>
-<h4><a href="https://www.youtube.com/@TU_CANAL">Canales de YouTube</a></h4>
+<h4>Canales de YouTube</h4>
 <sub>Creación y edición de vídeos en formato corto.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/MISI%C3%93N-SECUNDARIA-ff1a1a?style=flat-square&labelColor=000000"/>
